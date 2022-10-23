@@ -124,5 +124,8 @@ def predict(x):
 predictions = predict(test_x)
 
 eval(test_y,predictions)
-
 p = predict(["This is a ridiculously bright movie. The plot was terrible and I was sad until the ending!"])
+print(p)
+
+
+
