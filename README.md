@@ -9,3 +9,8 @@
 -Precision score: 0.9880834160873883  
 -Recall Score: 0.995  
 -Confusion Matrix: [[988  12][  5 995]]  
+
+
+### Naive bayes  
+  
+-Accuracy: 0.994  
